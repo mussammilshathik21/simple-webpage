@@ -1,0 +1,18 @@
+.footer{
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+    padding: 10px 15px;
+    display: flex;
+    justify-content: space-between;
+}
+.footer h4 a{
+    color: white;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    text-align: center;
+}
