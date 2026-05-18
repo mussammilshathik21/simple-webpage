@@ -8,7 +8,7 @@ function Guide() {
 
             <h2>Instruction and Setup :</h2>
 
-            <p>1. Download the ZIP file from GitHub.</p>
+            <p>1. Download the ZIP file.</p>
 
             <p>2. Extract the ZIP file to your computer.</p>
 
